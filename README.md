@@ -7,5 +7,6 @@ sudo pacman -S hyprland
 sudo pacman -S uwsm
 sudo pacman -S xdg-desktop-portal-hyprland hyprpolkitagent
 sudo pacman -S waybar
+sudo pacman -S hyprlock hypridle
 
 ```
