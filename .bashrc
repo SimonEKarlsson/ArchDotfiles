@@ -7,4 +7,5 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias hi='echo hello from dotfiles'
 PS1='[\u@\h \W]\$ '

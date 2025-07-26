@@ -14,5 +14,9 @@ ln -sf "$DOTFILES_DIR/.config/waybar" ~/.config/waybar
 echo "Linking Wallpapers..."
 ln -sf "$DOTFILES_DIR/.config/wallpapers" ~/.config/wallpapers
 
+echo "Linking Bash config..."
+ln -sf "$DOTFILES_DIR/.bashrc" ~/.bashrc
+ln -sf "$DOTFILES_DIR/.bash_profile" ~/.bash_profile
+
 echo "All configs linked!"
 
