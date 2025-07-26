@@ -10,5 +10,7 @@ sudo pacman -S waybar
 sudo pacman -S hyprlock hypridle
 sudo pacman -S hyprpaper
 sudo pacman -S fastfetch
+sudo pacman -S thunar lxappearance
+
 
 ```

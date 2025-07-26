@@ -18,5 +18,8 @@ echo "Linking Bash config..."
 ln -sf "$DOTFILES_DIR/.bashrc" ~/.bashrc
 ln -sf "$DOTFILES_DIR/.bash_profile" ~/.bash_profile
 
+echo "Linking wofi config ..."
+ln -sf "$DOTFILES_DIR/.config/wofi" ~/.config/wofi
+
 echo "All configs linked!"
 

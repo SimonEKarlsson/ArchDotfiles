@@ -1,0 +1,8 @@
+width=600
+height=400
+show=drun
+prompt= Search
+term=kitty
+hide_scroll=true
+allow_images=true
+
